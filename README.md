@@ -1,4 +1,4 @@
-https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif
+https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/activity.gif
 
 <h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
 <h2 align="center">

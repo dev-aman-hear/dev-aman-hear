@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi<img src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/Hi.gif"width="28px"/>,I'm dev-aman-hear</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?dev-aman-hear=dev-aman-hear&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -39,9 +37,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+  [[LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
+  [[Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
+  [[GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
 </details>
 
 <details>

@@ -1,4 +1,4 @@
-https://github.com/dev-aman-hear/dev-aman-hear/blob/77907cdc1e82cafacbbde607bdb59e2faa2a04f8/welcome.gif
+## <img align ='center' src="https://github.com/dev-aman-hear/dev-aman-hear/edit/main/welcome.gif" width="37" /> About Me
 
 <h1 align="center">Hi ,I'm dev-aman-hear</h1>
 <h2 align="center">
@@ -113,12 +113,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
 </div>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31z777wzgiaalqpuoqugm57q4mmi)
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31z777wzgiaalqpuoqugm57q4mmi)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31z777wzgiaalqpuoqugm57q4mmi&count=1)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31z777wzgiaalqpuoqugm57q4mmi&width=600)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31z777wzgiaalqpuoqugm57q4mmi&unique=true)
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->

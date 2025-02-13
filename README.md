@@ -1,4 +1,4 @@
-https://github.com/dev-aman-hear/dev-aman-hear/dev-aman-hear/welcome.gif
+https://github.com/dev-aman-hear/dev-aman-hear/blob/main/welcome.gif
 
 <h1 align="center">Hi ,I'm dev-aman-hear</h1>
 <h2 align="center">

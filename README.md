@@ -22,10 +22,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </div>
   </div>
 </details>
-   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://dev.aman.hear@gmail.com/)
-  [![Visits](https://komarev.com/ghpvc/?username=dev-aman-hear&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dev-aman-hear)
-  
+   
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
@@ -38,3 +35,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
 </div>
+
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://dev.aman.hear@gmail.com/)
+  [![Visits](https://komarev.com/ghpvc/?username=dev-aman-hear&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dev-aman-hear)
+  

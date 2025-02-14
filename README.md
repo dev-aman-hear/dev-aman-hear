@@ -72,33 +72,10 @@ You can connect with me on various platforms:
 
 <br>
 
-### ⚡ Fun Fact
-
-Did you know? The first computer mouse was made of wood.
-
-Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
-
-
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-  </div>
-</details>
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
 </div>
 
-### ⚡ Fun Fact
-
-Did you know? The first computer mouse was made of wood.
-
-Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
-
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
@@ -107,3 +84,9 @@ Thanks for visiting my profile! Feel free to explore my repositories, and don't 
 
   </div>
 </details>
+
+### ⚡ Fun Fact
+
+Did you know? The first computer mouse was made of wood.
+
+Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!

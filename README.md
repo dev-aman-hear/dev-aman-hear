@@ -64,9 +64,7 @@ I'm always eager to learn new technologies and expand my skillset. Currently, I'
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
-
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
   </div>
 </details>
 
@@ -80,8 +78,8 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/🄺🄰🅁🄼🄰-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/O_oKarma)
-- [![gmail](https://img.shields.io/badge/makandu2054@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)
+- [![telegram](https://img.shields.io/badge/BillyButcherIsHear-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/BillyButcherIsHear)
+- [![gmail](https://img.shields.io/badge/dev.aman.hear@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto:dev.aman.hear@gmail.com)
 
 <br>
 

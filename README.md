@@ -57,6 +57,10 @@ I'm always eager to learn new technologies and expand my skillset. Currently, I'
 
 <br>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
+</div>
+
 ### 🤝 Collaboration
 
 I enjoy collaborating with other developers and learning from their experiences. If you have any exciting projects or ideas, feel free to reach out. Let's create something awesome together!
@@ -72,9 +76,7 @@ You can connect with me on various platforms:
 
 <br>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
-</div>
+
 
 <details>
   <summary>Click to see a random joke</summary>

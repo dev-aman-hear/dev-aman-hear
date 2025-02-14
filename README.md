@@ -16,15 +16,10 @@
 
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
+ <details>
+  <summary>Contact me</summary>
+  <div align="center">
   </div>
-</details>
-  <summary><h2> <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
 </details>
 
 <details>

@@ -14,7 +14,7 @@
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="https://graph.org/file/43858b046035d8dccc886-3767b083d0d57d1f4f.jpg" width="200" alt="Profile Image">
+    <img src="https://graph.org/file/1bdd14173ffa4153611e4-533611105eda4abe08.jpg" width="200" alt="Profile Image">
   </div>
 </div>
 

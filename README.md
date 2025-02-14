@@ -24,7 +24,7 @@
 
 <p align="center"> 
   Total Visitors<br>
-  <img src="https://profile-counter.glitch.me/Infamous-Hydra/count.svg" />
+  <img src="https://profile-counter.glitch.me/dev-aman-hear/count.svg" />
 </p>
 
 ### GitHub Overview

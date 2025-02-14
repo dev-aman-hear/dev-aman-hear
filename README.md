@@ -25,15 +25,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+  <summary><h4> <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/X-TECH-XYZ University-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-X-GPA-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
+  - **OWNER ** at XYZ | LIFETIME
+    - NO LIE
  </details>
 </details>
 
@@ -45,7 +45,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -54,19 +54,19 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  #### <a href="https://github.com/dev-aman-hear/[Project-Name]">[Project Name]</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
   - Implemented features to notify users about new opportunities.
   - Achieved a user base of X, surpassing initial projections.
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
     ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-aman-hear&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aman-hear&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=dev-aman-hear&theme=tokyo-night)
   </div>
 </details>
 
@@ -85,11 +85,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   </div>
 
   <details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
 </details>
@@ -107,9 +107,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
 </div>
 
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://dev.aman.hear@gmail.com/)
+  [![Visits](https://komarev.com/ghpvc/?username=dev-aman-hear&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dev-aman-hear)
 </div>
 
 ### ✅ Merged PRs
@@ -121,7 +121,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
 <!--Finish Merged PRs-->
 
-### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/dev-aman-hear/dev-aman-hear/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
 <!--END_SECTION:activity-->

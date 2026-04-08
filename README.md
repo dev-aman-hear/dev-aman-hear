@@ -8,10 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Code+%7C+Build+%7C+Repeat;🧠+Always+Learning+New+Things;🔥+Welcome+to+my+Digital+World" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-aman-hear&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="300" style="border-radius:20px;" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="300" />
 </p>
 
 <p align="center">
@@ -49,8 +55,12 @@
 ## 📊 GitHub Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aman-hear&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -104,7 +114,7 @@
 ## ⚡ Fun Fact
 
 > 💡 First computer mouse was made of wood 🪵
-> ⚡ And now we build AI with billions of parameters 🤯
+> ⚡ Now we build AI that can talk like humans 🤖
 
 ---
 

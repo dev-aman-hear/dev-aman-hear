@@ -13,7 +13,7 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="900" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="600" />
 </p>
 
 <p align="center">
@@ -43,14 +43,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
- 
 </p>
 
 ---
 
-## 📊 GitHub Matrix 
-<p align="center"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" /> </p>
+## 📊 GitHub Matrix
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
@@ -63,11 +63,17 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-aman-hear/dev-aman-hear/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## 🎧 Vibes
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  <a href="https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
   </a>
 </p>
 

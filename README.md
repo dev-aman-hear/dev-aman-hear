@@ -22,12 +22,6 @@
 
 ## My GitHub Profile Metrics
 
-<h2 align="center">👀 Profile Views</h2>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-aman-hear/count.svg" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight" />

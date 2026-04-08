@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Code+%7C+Build+%7C+Repeat;🧠+Always+Learning+New+Things;🔥+Welcome+to+my+Digital+World" />
 </p>
 
----
-
-<h2 align="center">⚡ 「 CYBER PROFILE 」 ⚡</h2>
-
----
-
 ## 🧬 About Me
 
 <p align="center">
@@ -64,7 +58,7 @@
 ## 🐍 Contribution Snake (LIVE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-aman-hear/dev-aman-hear/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dev-aman-hear/dev-aman-hear/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

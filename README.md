@@ -59,10 +59,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aman-hear&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake (LIVE)

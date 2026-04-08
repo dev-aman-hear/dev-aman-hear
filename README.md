@@ -22,13 +22,6 @@
 
 ## My GitHub Profile Metrics
 
-<p align="center"> 
-  Total Visitors<br>
-  <img src="https://profile-counter.glitch.me/dev-aman-hear/count.svg" />
-</p>
-
-### GitHub Overview
-
 <h2 align="center">👀 Profile Views</h2>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/dev-aman-hear/count.svg" />

@@ -8,10 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Code+%7C+Build+%7C+Repeat;🧠+Always+Learning+New+Things;🔥+Welcome+to+my+Digital+World" />
 </p>
 
-## About Me
+---
+
+## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="600" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="420" />
 </p>
 
 <p align="center">
@@ -37,7 +39,7 @@
   <img src="https://img.shields.io/badge/Koyeb-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-### ⚙️ Backend + DB
+### ⚙️ Backend + Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
@@ -53,6 +55,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-aman-hear/dev-aman-hear/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📡 Activity Pulse
 
 <p align="center">
@@ -60,12 +70,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-aman-hear/dev-aman-hear/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ## 🎧 Vibes
 

@@ -50,15 +50,28 @@ I'm always eager to learn new technologies and expand my skillset. Currently, I'
 
 <br>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi)
+&nbsp;
+
+<div align="center">
+
+  <!-- 🎧 Spotify Now Playing -->
+  <a href="https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" />
+  </a>
+
 </div>
 
+<br>
+
 <details>
-  <summary>Click to see a random joke</summary>
+  <summary>😂 Click for a random joke</summary>
+  
+  <br>
+  
   <div align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" />
   </div>
+
 </details>
 
 ### 🤝 Collaboration

@@ -23,7 +23,6 @@
 ## My GitHub Profile Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight" />
 </p>
 

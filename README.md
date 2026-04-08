@@ -1,118 +1,103 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Building+cool+projects;Enjoy+your+stay!&width=600&height=180">
-</p>
-
-<h2 align="center">
-──「 🄳🄴🅅 🄰🄼🄰🄽 🄷🄴🄰🅁 ダ PROFILE 」──
-</h2>
-
----
-
-## 🚀 About Me
+<!-- 🔥 CYBERPUNK DEV PROFILE -->
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DEV%20AMAN%20HEAR&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  Hey there! 👋 I'm a passionate programmer and tech enthusiast who loves building, learning, and exploring new technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Code+%7C+Build+%7C+Repeat;🧠+Always+Learning+New+Things;🔥+Welcome+to+my+Digital+World" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">⚡ 「 CYBER PROFILE 」 ⚡</h2>
+
+---
+
+## 🧬 About Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="300" style="border-radius:20px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-aman-hear&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffffff&hide_border=true" />
+  👋 Hey, I'm <b>Aman</b> <br>
+  💻 Developer • ⚡ Tech Explorer • 🧠 Lifelong Learner <br>
+  🚀 Building cool stuff & breaking limits
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Tech Arsenal
 
-### 🧠 Programming Languages
+### 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
 </p>
 
-### ☁️ Hosting / SaaS
+### ☁️ Cloud / Hosting
 
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,azure" />
+  <img src="https://img.shields.io/badge/Koyeb-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend + DB
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Matrix
 
-* 🤖 Machine Learning & AI
-* ☁️ DevOps & Cloud Computing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
 ---
 
-## 🎧 Spotify
+## 🐍 Contribution Snake (LIVE)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-aman-hear/dev-aman-hear/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📡 Activity Pulse
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-aman-hear&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🎧 Vibes
 
 <p align="center">
   <a href="https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy">
-    <img src="https://img.shields.io/badge/Spotify-Visit%20My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=default" />
   </a>
 </p>
 
 ---
 
-<details>
-  <summary>😂 Click for a random joke</summary>
-  <br>
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" />
-  </p>
-</details>
+## 🤝 Connect With Me
 
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to collaborating on exciting projects 🚀
-Let’s build something awesome together!
-
----
-
-## 📫 Contact Me
-
-<p>
+<p align="center">
   <a href="https://instagram.com/dev.aman.hear">
-    <img src="https://img.shields.io/badge/dev.aman.hear-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://t.me/BillyButcherHear">
-    <img src="https://img.shields.io/badge/BillyButcherHear-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:dev.aman.hear@gmail.com">
-    <img src="https://img.shields.io/badge/dev.aman.hear@gmail.com-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -120,8 +105,11 @@ Let’s build something awesome together!
 
 ## ⚡ Fun Fact
 
-💡 The first computer mouse was made of wood 🪵
+> 💡 First computer mouse was made of wood 🪵
+> ⚡ And now we build AI with billions of parameters 🤯
 
 ---
 
-⭐ If you like my work, consider giving a star!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>

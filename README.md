@@ -1,55 +1,49 @@
-<!-- 🌌 GOD-TIER CYBER GLASS PROFILE -->
+<!-- ⚡ CLEAN CYBER PRO PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=DEV%20AMAN%20HEAR&fontSize=50&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=DEV%20AMAN%20HEAR&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+my+Cyber+World;💻+Full+Stack+Developer;🚀+Building+Future+Ready+Projects;🧠+Learning+Never+Stops" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-aman-hear&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Cool+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🧬 About Me
+## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="380" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👋%20Aman-0d1117?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/💻%20Developer-0d1117?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/⚡%20Explorer-0d1117?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/🧠%20Learner-0d1117?style=for-the-badge&color=00F7FF"/>
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,mysql,mongodb,vercel,azure&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Koyeb-0d1117?style=for-the-badge&color=00F7FF"/>
+  Hey 👋 I'm <b>Aman</b><br>
+  Developer • Tech Explorer • Lifelong Learner
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=transparent&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=transparent&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,mysql,mongodb,vercel,azure" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aman-hear&layout=compact&theme=transparent&title_color=00F7FF&text_color=ffffff&hide_border=true" />
+  <img src="https://img.shields.io/badge/Koyeb-111111?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aman-hear&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,10 +56,10 @@
 
 ---
 
-## 📡 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-aman-hear&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-aman-hear&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +68,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=00f7ff&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=default" />
   </a>
 </p>
 
@@ -84,26 +78,18 @@
 
 <p align="center">
   <a href="https://instagram.com/dev.aman.hear">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://t.me/BillyButcherHear">
-    <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:dev.aman.hear@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
 <p align="center">
-  <img src="https://img.shields.io/badge/💡%20First%20computer%20mouse%20was%20made%20of%20wood-0d1117?style=for-the-badge&color=00F7FF"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>

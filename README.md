@@ -55,9 +55,11 @@ I'm always eager to learn new technologies and expand my skillset. Currently, I'
 <div align="center">
 
   <!-- 🎧 Spotify Now Playing -->
-  <a href="https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi">
+  <a href="[https://open.spotify.com/user/31z777wzgiaalqpuoqugm57q4mmi](https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy?si=8dacf45193a14398)">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" />
   </a>
+
+https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy?si=8dacf45193a14398
 
 </div>
 

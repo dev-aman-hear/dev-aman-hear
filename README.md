@@ -29,9 +29,16 @@
 
 ### GitHub Overview
 
-<a href="https://github.com/dev-aman-hear/github-readme-stats">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dev-aman-hear&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-</a>
+<h2 align="center">👀 Profile Views</h2>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/dev-aman-hear/count.svg" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight" />
+</p>
 
 ### Activity Graph
 

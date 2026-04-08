@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Code+%7C+Build+%7C+Repeat;🧠+Always+Learning+New+Things;🔥+Welcome+to+my+Digital+World" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-aman-hear&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🧬 About Me

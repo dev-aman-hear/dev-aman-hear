@@ -54,16 +54,10 @@ I'm always eager to learn new technologies and expand my skillset. Currently, I'
 
 <div align="center">
 
-  <!-- 🎧 Spotify Now Playing -->
-  <a href="https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" />
-  </a>
+ <div align="center">
 
-  <br><br>
-
-  <!-- 🔗 Profile Button -->
   <a href="https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy">
-    <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🎧%20Spotify-Visit%20My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 
 </div>

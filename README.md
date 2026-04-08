@@ -83,6 +83,7 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
+- [![instagram](https://img.shields.io/badge/dev.aman.hear-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.aman.hear)
 - [![telegram](https://img.shields.io/badge/BillyButcherHear-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/BillyButcherHear)
 - [![gmail](https://img.shields.io/badge/dev.aman.hear@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto:dev.aman.hear@gmail.com)
 

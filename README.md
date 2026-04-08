@@ -48,7 +48,7 @@
 - **Hosting / SaaS:**  
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+)
+  ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logoColor=white)
   
 - Back-end Development: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     

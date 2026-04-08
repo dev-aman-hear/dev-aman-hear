@@ -90,6 +90,13 @@
 
 ---
 
+## ⚡ Fun Fact
+
+> 💡 First computer mouse was made of wood 🪵
+> ⚡ Now we build AI that can talk like humans 🤖
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>

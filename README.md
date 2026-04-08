@@ -17,7 +17,7 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="300" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="600" />
 </p>
 
 <p align="center">

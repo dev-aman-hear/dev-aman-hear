@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+ 
 </p>
 
 ---

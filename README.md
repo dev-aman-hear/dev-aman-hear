@@ -1,11 +1,11 @@
-<!-- 🔥 CYBERPUNK DEV PROFILE -->
+<!-- 🌌 GLASSMORPHISM CYBER PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DEV%20AMAN%20HEAR&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=DEV%20AMAN%20HEAR&fontSize=45&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Code+%7C+Build+%7C+Repeat;🧠+Always+Learning+New+Things;🔥+Welcome+to+my+Digital+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=⚡+Welcome+to+my+Cyber+Space;💻+Full+Stack+Developer;🚀+Building+Future+Tech;🧠+Learning+Never+Stops" />
 </p>
 
 ---
@@ -13,44 +13,50 @@
 ## 🧬 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="420" />
+  <img src="https://i.imgur.com/Bd7ME21.jpeg" width="420" style="border-radius:20px;" />
 </p>
 
 <p align="center">
-  👋 Hey, I'm <b>Aman</b> <br>
-  💻 Developer • ⚡ Tech Explorer • 🧠 Lifelong Learner <br>
-  🚀 Building cool stuff & breaking limits
+  <img src="https://img.shields.io/badge/👋%20Hey%20I'm%20Aman-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
+  <br><br>
+  <img src="https://img.shields.io/badge/💻%20Developer-111111?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/⚡%20Tech%20Explorer-111111?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/🧠%20Learner-111111?style=for-the-badge&color=00F7FF"/>
 </p>
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" />
 </p>
 
 ### ☁️ Cloud / Hosting
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,azure" />
-  <img src="https://img.shields.io/badge/Koyeb-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vercel,azure&theme=dark" />
+  <img src="https://img.shields.io/badge/Koyeb-0d1117?style=for-the-badge&color=00F7FF"/>
 </p>
 
-### ⚙️ Backend + Databases
+### ⚙️ Backend + DB
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Matrix
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=transparent&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-aman-hear&theme=transparent&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true" />
 </p>
 
 ---
@@ -63,7 +69,7 @@
 
 ---
 
-## 📡 Activity Pulse
+## 📡 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-aman-hear&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
@@ -71,39 +77,34 @@
 
 ---
 
-## 🎧 Vibes
+## 🎧 Now Playing
 
 <p align="center">
   <a href="https://open.spotify.com/user/31q32rjtk7hrmj7zg64vkukl3qmy">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q32rjtk7hrmj7zg64vkukl3qmy&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=00f7ff&bar_color_cover=true" />
   </a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://instagram.com/dev.aman.hear">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/BillyButcherHear">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:dev.aman.hear@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> 💡 First computer mouse was made of wood 🪵
-> ⚡ Now we build AI that can talk like humans 🤖
+<p align="center">
+  <img src="https://img.shields.io/badge/💡%20First%20mouse%20was%20wooden-0d1117?style=for-the-badge&color=00F7FF"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer"/>
 </p>

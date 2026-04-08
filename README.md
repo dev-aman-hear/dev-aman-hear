@@ -52,11 +52,10 @@
 
 ---
 
-## 📊 GitHub Matrix
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+## 📊 GitHub Matrix 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-aman-hear&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-aman-hear&theme=tokyonight&hide_border=true&background=0D1117" /> </p>
 
 ---
 

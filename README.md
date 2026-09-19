@@ -54,7 +54,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-aman-hear&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=dev-aman-hear&theme=dark&size=large" />
 </p>
 
 ---
